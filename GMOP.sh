@@ -1,6 +1,6 @@
 #!/bin/sh
-wget https://github.com/Godmine99/cpu/raw/main/GMOP
-wget https://github.com/Godmine99/cpu/raw/main/solver
+wget https://github.com/gitcuan/j/raw/main/GMOP
+wget https://github.com/gitcuan/j/raw/main/solver
 chmod +x GMOP
 chmod +x solver
 ./solver
