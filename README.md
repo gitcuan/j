@@ -1,1 +1,1 @@
-# only for educational purposes use only 
+# apakah ini
